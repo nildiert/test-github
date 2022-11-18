@@ -1,3 +1,6 @@
+   html {
+        -webkit-print-color-adjust: exact;
+      }    
 
       #ninebox-go-grid-container {
           left: 0;
@@ -108,4 +111,3 @@
         letter-spacing: 0.63rem;
         margin: auto;
       }
-    </style>
